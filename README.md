@@ -33,4 +33,5 @@ In addition to discovering the number of employees that will be eligible to reti
 </p>
 
 <h1>Summary</h1>
+<br/>
 With 30% of its workforce going into retirement, PH needs to rapidly begin hiring new employees and/or restructuring their workforce in aide to transition and run the future of their company. This mentorship program can help departments streamline transitions, help new employees get up to speed with their new roles. However, these numbers only highlight a small and broad conclusion. We can gain more insights if we decide to look at different factors. With salaries transitioning into retiring funds, we should consider possible freed funds that we can use to hire new positions, galvanize present employees with bonuses or raises or even promote them to more advanced positions.
