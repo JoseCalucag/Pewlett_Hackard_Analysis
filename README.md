@@ -9,7 +9,7 @@
 I was tapped by Pewlett Hackard (PH) to analyize a data trend in their company deemed "The Silver Tsunami". They are witnessing a wave of retirements and are looking to get tabular data on the retirement pool and if any retiree is eligible to mentor the new wave of employees. By creating a frame work of the data network, I was able to clean the data into two deliverables </br>
 
 <p align = "center">
-<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png" width="300" height="300">
+<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png" width="350" height="300">
  </p>
 
 
@@ -18,11 +18,11 @@ I was tapped by Pewlett Hackard (PH) to analyize a data trend in their company d
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 **Deliverable 1: The Number of Retiring Employees by Title**
-OF the 300,024 current employees at PH, we have found that 30,938 employees are looking to retire; being born the eligible retiring birth date range of Jan 1st, 1952 and Dec 31st 1955. That's 30% of their workforce. This is further broken down in the unique_titles.csv with a list of the retirees, their employee number and the position they held.
+Of the 300,024 current employees at PH, we have found that 30,938 employees are looking to retire; being born the eligible retiring birth date range of Jan 1st, 1952 and Dec 31st 1955. That's 30% of their workforce. This is further broken down in the unique_titles.csv with a list of the retirees, their employee number and the position they held. In the chart below, we further breakdown the retiree pool by looking at the number of retirees as per position. 
 
 
 <p align = "center">
-<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/position_count.png" width="300" height="300">
+<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/position_count.png" width="350" height="300">
  </p>
 
 
@@ -33,7 +33,7 @@ Of the 300,024 employees working for Pewlett-Hackard it was discovered that 90,3
 - There aren't that many Manager roles retiring and are montly seeing engineer and staff positions.ho
 
 <p align = "center">
-<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/mentorship_eligibility.png" width="300" height="300">
+<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/mentorship_eligibility.png" width="350" height="300">
  </p>
  
  
