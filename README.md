@@ -6,18 +6,29 @@
  </p>
 
 <h2>Overview of the analysis</h2>
-I was tapped by Pewlett Hackard to analyize a data trend in their company deemed "The Silver Tsunami". They are witnessing a wave of retirements and are looking to get tabular data on the retirement pool and if any retiree is eligible to mentor the new wave of employees. By creating a schema of needed categoties
+I was tapped by Pewlett Hackard (PH) to analyize a data trend in their company deemed "The Silver Tsunami". They are witnessing a wave of retirements and are looking to get tabular data on the retirement pool and if any retiree is eligible to mentor the new wave of employees. By creating a frame work of the data network, I was able to clean the data into two deliverables </br>
+
+<p align = "center">
+<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png" width="300" height="300">
+ </p>
+
 
 <h2>Results</h2>
 **There is a bulleted list with four major points from the two analysis deliverables. (6 pt)**
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 **Deliverable 1: The Number of Retiring Employees by Title**
-Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions—you’ll need to use the DISTINCT ON statement to create a table that contains the most recent title of each employee. Then, use the COUNT() function to create a final table that has the number of retirement-age employees by most recent job title.
+OF the 300,024 current employees at PH, we have found that 30,938 employees are looking to retire; being born the eligible retiring birth date range of Jan 1st, 1952 and Dec 31st 1955. That's 30% of their workforce. This is further broken down in the unique_titles.csv with a list of the retirees, their employee number and the position they held.
+
 
 <p align = "center">
-<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/position_count.png" width="200" height="200">
+<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/position_count.png" width="300" height="300">
  </p>
+
+
+We can see how
+
+Of the 300,024 employees working for Pewlett-Hackard it was discovered that 90,398 were born between 1952 and 1955. That is 30.13% of the total workforce at pewlett-hackard. This data is broken down into number of employees retiring and their title. The csv file that shows this data is title_totals.csv. In addition to discovering the number of employees that will be eligible to retire we also discovered the number of employees that can replace them by entering a mentorship program.
 
 - There aren't that many Manager roles retiring and are montly seeing engineer and staff positions.ho
 
