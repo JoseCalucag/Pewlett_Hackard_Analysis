@@ -32,6 +32,13 @@ Of the 300,024 employees working for Pewlett-Hackard it was discovered that 90,3
 
 - There aren't that many Manager roles retiring and are montly seeing engineer and staff positions.ho
 
+<p align = "center">
+<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/mentorship_eligibility.png" width="300" height="300">
+ </p>
+ 
+ 
+
+
 **Deliverable 2: The Employees Eligible for the Mentorship Program**
 Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 
