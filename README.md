@@ -1,10 +1,6 @@
 <h1 align = "Center">Pewlett_Hackard_Analysis
 </h1>
 
-<p align = "center">
-<img src = "https://indiapokernews.com/wp-content/uploads/2019/04/retiring-web.jpg">
-</p>
-
 <h1>Overview of the analysis</h1>
 I was tapped by Pewlett Hackard (PH) to analyize a trend in their company they have deemed "The Silver Tsunami". They are witnessing a wave of retirements this year  and stakeholders want to see tabular data on the retirement pool and if any retiree is eligible to mentor the new wave of employees. By creating an ERD of the available data, I was able to group and clean the data into two deliverables. <br/>
 
