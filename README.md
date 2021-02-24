@@ -5,7 +5,7 @@
 I was tapped by Pewlett Hackard (PH) to analyize a trend in their company they have deemed "The Silver Tsunami". They are witnessing a wave of retirements this year  and stakeholders want to see tabular data on the retirement pool and if any retiree is eligible to mentor the new wave of employees. By creating an ERD of the available data, I was able to group and clean the data into two deliverables. <br/>
 
 <p align = "center">
-<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/EmployeeDB.png" width="350" height="300">
+<img src = "https://github.com/JoseCalucag/Retirement_Analysis/blob/main/Resources/EmployeeERD.png" width="350" height="300">
 </p>
 
 <h1>Results</h1>
@@ -16,7 +16,7 @@ Of the 300,024 current employees at PH, the company is looking at 90,398 employe
 <br/>
 
 <p align = "center">
-<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/position_count.png" width="350" height="300">
+<img src = "https://github.com/JoseCalucag/Retirement_Analysis/blob/main/Resources/position_count.png" width="350" height="300">
  </p>
  <br/>
 
@@ -25,7 +25,7 @@ In addition to discovering the number of employees that will be eligible to reti
 <br/>
 
 <p align = "center">
-<img src = "https://github.com/JoseCalucag/Pewlett_Hackard_Analysis/blob/main/mentorship_eligibility.png" width="350" height="300">
+<img src = "https://github.com/JoseCalucag/Retirement_Analysis/blob/main/Resources/mentorship_eligibility.png" width="350" height="300">
 </p>
 
 <h1>Summary</h1>
